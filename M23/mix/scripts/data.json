@@ -1,0 +1,1093 @@
+{
+    "part": {
+        "estimatedFactoryLeadDays": 126,
+        "id": "43635",
+        "manufacturer": {
+            "id": "257",
+            "name": "Molex"
+        },
+        "medianPrice1000": {
+            "currency": "USD",
+            "price": 2.8425849999999997,
+            "quantity": 1000
+        },
+        "mpn": "74320-4004",
+        "sellers": [
+            {
+                "company": {
+                    "homepageUrl": "http://www.rs-components.com",
+                    "name": "RS"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "575618742",
+                        "inventoryLevel": 279,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.842,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 5.12,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 5.1,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 4.47,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.838,
+                                "quantity": 75
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 4.24,
+                                "quantity": 75
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.598,
+                                "quantity": 200
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 4.03,
+                                "quantity": 200
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.256,
+                                "quantity": 400
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 3.73,
+                                "quantity": 400
+                            }
+                        ],
+                        "updated": "2023-01-06T02:52:30Z"
+                    },
+                    {
+                        "id": "660716125",
+                        "inventoryLevel": 0,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.842,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 5.12,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 5.1,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 4.47,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.838,
+                                "quantity": 75
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 4.24,
+                                "quantity": 75
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.598,
+                                "quantity": 200
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 4.03,
+                                "quantity": 200
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.256,
+                                "quantity": 400
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 3.73,
+                                "quantity": 400
+                            }
+                        ],
+                        "updated": "2023-01-06T02:52:30Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.newark.com",
+                    "name": "Newark"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "3024554",
+                        "inventoryLevel": 43,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 3.85,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.53,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.53,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.53,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.53,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.26,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.26,
+                                "quantity": 500
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.26,
+                                "quantity": 1000
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    },
+                    {
+                        "id": "634317144",
+                        "inventoryLevel": 0,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.72,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 5.28,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 5.05,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.85,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.74,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.2,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.09,
+                                "quantity": 500
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.56,
+                                "quantity": 1000
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://avnetexpress.avnet.com",
+                    "name": "Avnet"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "763562313",
+                        "inventoryLevel": 7392,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 3.177,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.47352,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.04992,
+                                "quantity": 30
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.95461,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.91225,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.8593,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.78517,
+                                "quantity": 500
+                            }
+                        ],
+                        "updated": "2023-01-05T06:22:09Z"
+                    },
+                    {
+                        "id": "754792096",
+                        "inventoryLevel": 43,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.1,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.71,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.5,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.41,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.31,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.82,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.72,
+                                "quantity": 500
+                            }
+                        ],
+                        "updated": "2023-01-05T06:22:09Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.heilind.com/",
+                    "name": "Heilind Electronics"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "46041965",
+                        "inventoryLevel": 1840,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 2.6963,
+                                "quantity": 56
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.2683,
+                                "quantity": 112
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.1985,
+                                "quantity": 224
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.1652,
+                                "quantity": 392
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.1329,
+                                "quantity": 728
+                            }
+                        ],
+                        "updated": "2022-12-20T22:43:07Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.connecticc.com/",
+                    "name": "Interstate Connecting Components"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "813142831",
+                        "inventoryLevel": 429,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 2.6963,
+                                "quantity": 56
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.2683,
+                                "quantity": 112
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.1985,
+                                "quantity": 224
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.1652,
+                                "quantity": 392
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.1329,
+                                "quantity": 728
+                            }
+                        ],
+                        "updated": "2022-12-21T00:01:16Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://alliedelec.com",
+                    "name": "Allied Electronics & Automation"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "46678451",
+                        "inventoryLevel": 2,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 3.23,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.06,
+                                "quantity": 5
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.9,
+                                "quantity": 100
+                            }
+                        ],
+                        "updated": "2023-01-05T14:06:24Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.arrow.com",
+                    "name": "Arrow Electronics"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "473322576",
+                        "inventoryLevel": 2133,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.278,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.616,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.658,
+                                "quantity": 80
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.012,
+                                "quantity": 1344
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.779,
+                                "quantity": 2688
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    },
+                    {
+                        "id": "660774128",
+                        "inventoryLevel": 39,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 1.369,
+                                "quantity": 1
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.digikey.com",
+                    "name": "Digi-Key"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "114456881",
+                        "inventoryLevel": 6816,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.35,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.706,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.74363,
+                                "quantity": 80
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.10181,
+                                "quantity": 1344
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.88789,
+                                "quantity": 2688
+                            }
+                        ],
+                        "updated": "2023-01-06T02:52:30Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.mouser.com",
+                    "name": "Mouser"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "37605172",
+                        "inventoryLevel": 1259,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.29,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.66,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.66,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.71,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.61,
+                                "quantity": 500
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.07,
+                                "quantity": 672
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.07,
+                                "quantity": 1000
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.85,
+                                "quantity": 2688
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.75,
+                                "quantity": 5376
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.85,
+                                "quantity": 10000
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.64,
+                                "quantity": 10080
+                            }
+                        ],
+                        "updated": "2023-01-06T02:52:30Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "https://www.ttiinc.com",
+                    "name": "TTI"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "83113653",
+                        "inventoryLevel": 28832,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 3.22,
+                                "quantity": 8
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.02,
+                                "quantity": 80
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.88,
+                                "quantity": 1344
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.82,
+                                "quantity": 2688
+                            }
+                        ],
+                        "updated": "2023-01-06T07:27:51Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.distrelec.com",
+                    "name": "Distrelec"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "511024995",
+                        "inventoryLevel": 1199,
+                        "prices": [
+                            {
+                                "currency": "EUR",
+                                "price": 2.41,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "EUR",
+                                "price": 2.38,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "EUR",
+                                "price": 2.33,
+                                "quantity": 50
+                            }
+                        ],
+                        "updated": "2023-01-05T09:14:21Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.verical.com",
+                    "name": "Verical"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "663579963",
+                        "inventoryLevel": 39,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 1.369,
+                                "quantity": 5
+                            }
+                        ],
+                        "updated": "2023-01-05T17:50:19Z"
+                    },
+                    {
+                        "id": "773463580",
+                        "inventoryLevel": 2133,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 5.278,
+                                "quantity": 4
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 4.616,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.658,
+                                "quantity": 80
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.012,
+                                "quantity": 1344
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.779,
+                                "quantity": 2688
+                            }
+                        ],
+                        "updated": "2023-01-05T17:50:19Z"
+                    },
+                    {
+                        "id": "432353959",
+                        "inventoryLevel": 43,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 6.063,
+                                "quantity": 13
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 5.8025,
+                                "quantity": 25
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://zoro.com/",
+                    "name": "Zoro"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "846508269",
+                        "inventoryLevel": -2,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 3.05,
+                                "quantity": 1
+                            }
+                        ],
+                        "updated": "2023-01-04T02:47:33Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.onlinecomponents.com",
+                    "name": "Onlinecomponents.com"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "733315483",
+                        "inventoryLevel": 0,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 2.17,
+                                "quantity": 15
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.12,
+                                "quantity": 504
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.07,
+                                "quantity": 1008
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 1.99,
+                                "quantity": 2016
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.sager.com/",
+                    "name": "Sager Electronics"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "116802106",
+                        "inventoryLevel": 0,
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "price": 2.78,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.56,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.36,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.19,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.11,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.11,
+                                "quantity": 672
+                            }
+                        ],
+                        "updated": "2023-01-06T08:14:48Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.farnell.com/",
+                    "name": "Farnell"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "139017277",
+                        "inventoryLevel": 1239,
+                        "prices": [
+                            {
+                                "currency": "GBP",
+                                "price": 4.52,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 3.15,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 3.02,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 2.88,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 2.75,
+                                "quantity": 500
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 2.61,
+                                "quantity": 1000
+                            }
+                        ],
+                        "updated": "2023-01-05T08:49:27Z"
+                    },
+                    {
+                        "id": "632629959",
+                        "inventoryLevel": 28,
+                        "prices": [
+                            {
+                                "currency": "GBP",
+                                "price": 4.52,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 3.15,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 3,
+                                "quantity": 100
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 2.85,
+                                "quantity": 250
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 2.7,
+                                "quantity": 500
+                            },
+                            {
+                                "currency": "GBP",
+                                "price": 2.61,
+                                "quantity": 1000
+                            }
+                        ],
+                        "updated": "2023-01-05T08:49:27Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.element14.com/",
+                    "name": "element14 APAC"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "132415776",
+                        "inventoryLevel": 1165,
+                        "prices": [
+                            {
+                                "currency": "SGD",
+                                "price": 7.23,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "SGD",
+                                "price": 7.08,
+                                "quantity": 25
+                            },
+                            {
+                                "currency": "SGD",
+                                "price": 6.86,
+                                "quantity": 75
+                            },
+                            {
+                                "currency": "SGD",
+                                "price": 6.69,
+                                "quantity": 200
+                            },
+                            {
+                                "currency": "SGD",
+                                "price": 6.54,
+                                "quantity": 400
+                            }
+                        ],
+                        "updated": "2023-01-05T20:12:06Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://chip1stop.com/",
+                    "name": "Chip One Stop"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "683392393",
+                        "inventoryLevel": 98,
+                        "prices": [
+                            {
+                                "currency": "CNY",
+                                "price": 27.01,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "EUR",
+                                "price": 3.22,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "JPY",
+                                "price": 447,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 3.41,
+                                "quantity": 1
+                            },
+                            {
+                                "currency": "CNY",
+                                "price": 17.18,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "EUR",
+                                "price": 2.05,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "JPY",
+                                "price": 285,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.18,
+                                "quantity": 10
+                            },
+                            {
+                                "currency": "EUR",
+                                "price": 2.04,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "JPY",
+                                "price": 231,
+                                "quantity": 50
+                            },
+                            {
+                                "currency": "USD",
+                                "price": 2.17,
+                                "quantity": 50
+                            }
+                        ],
+                        "updated": "2023-01-05T11:09:43Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.tme.eu/en/",
+                    "name": "TME"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "252083509",
+                        "inventoryLevel": 0,
+                        "prices": [
+                            {
+                                "currency": "EUR",
+                                "price": 3.24,
+                                "quantity": 81
+                            }
+                        ],
+                        "updated": "2023-01-04T15:50:36Z"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "homepageUrl": "http://www.ttieurope.com",
+                    "name": "TTI Europe"
+                },
+                "isAuthorized": true,
+                "offers": [
+                    {
+                        "id": "766557930",
+                        "inventoryLevel": 2128,
+                        "prices": [
+                            {
+                                "currency": "EUR",
+                                "price": 3.35,
+                                "quantity": 56
+                            }
+                        ],
+                        "updated": "2023-01-06T06:48:10Z"
+                    }
+                ]
+            }
+        ],
+        "totalAvail": 834466
+    }
+}
